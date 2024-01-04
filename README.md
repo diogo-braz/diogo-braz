@@ -1,34 +1,29 @@
-# Welcome 👋
-<img width="100%" src="https://user-images.githubusercontent.com/47303115/163718856-614b87be-e577-484d-bf7a-7edff1c55212.gif" />
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="30"/> Hey, I'm Diogo, nice to meet you! </h1>
+<img align='right' src="https://raw.githubusercontent.com/gist/brudnak/6c21505423e4ff089ab704ec79b5a096/raw/b2d3dec32474b2121b179920734b259323a7c250/go.gif" width="230">
 
-## Presentation 👨🏻‍💻
-My name is Diogo Braz, I'm from Brazil and I'm 18 years old. I currently work in the backend development area, however, in a while, I see myself in the area of information security, that I like very much.
+**Systems Development Technician** at Etec from Peruíbe
+<br>
+**Graduating in Software Engineering** at Estácio de Sá
+<br>
 
-I am currently studying C and plan to learn Go and Assembly, languages that are interesting for the area I like.
+**Developer Senior** at sou.tech
+<br><br>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-braz)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/diogo_korpe)
+[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://mktdiogobraz)
 
-Thank you for your attention.
+## 🛠 Characteristics
 
-<br />
+<ul>
+  <li>🗺️ Back-end Developer from <b>Santos - SP</b>;</li>
+  <li>📑 I'm currently delving deeper into software architecture studies;</li>
+  <li>🚀 My main stack is Javascript;</li>
+  <li>🥋 I love sports, especially martial arts, I'm currently training brazilian jiu-jitsu;</li>
+  <li>🧬 I have experience with NodeJS, Typescript, NestJS, Golang, Python, Linux, GCP, AWS, NoSQL and SQL databases;</li>
+  <li>💘 Passionate about entrepreneurship;</li>
+</ul>
 
-![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)
-![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<br>
 
-<br />
-
-<p align="center">  
-    <a href="mailto:diogokorp@outlook.com"><img src="https://user-images.githubusercontent.com/47303115/163719187-b0d42709-553d-486f-80ea-34419903b71a.png" width="44" height="44" />
-    </a>
-    <a href="https://www.linkedin.com/in/diogo-braz-819b56224/"><img src="https://user-images.githubusercontent.com/47303115/163719062-91480913-5cee-4ee2-9502-615b9f7dcd29.png" width="44" height="44" />
-    </a>
-    <a href="https://medium.com/@diogokorp"><img src="https://user-images.githubusercontent.com/47303115/163719405-d86ccb29-a9a2-4147-984c-4934e2297541.png" witdh="44" height="44" />
-    </a>
-</p>
+> “Don't find fault, find a remedy; anybody can complain.”
+― Henry Ford
