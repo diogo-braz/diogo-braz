@@ -6,7 +6,7 @@
 **Graduating in Software Engineering** at Estácio de Sá
 <br>
 
-**Developer Senior** at gbm
+**Mid-level Developer** at gbm
 <br><br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-braz)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/diogo_korpe)
